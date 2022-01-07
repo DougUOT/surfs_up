@@ -93,13 +93,13 @@ The results show that the mean for the June month is around 0.169073 inches of r
 
 We considered the station USC00519281 with highest observation in Hawaii, also we considered the June month of 2016 year as a more recently data for this analysis.
 
-![]((https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag10.PNG)
+![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag10.PNG)
 
 #### December of 2016
 
 We considered the station USC00519281 with highest observation in Hawaii, also we considered the December month of 2016 year as a more recently data for this analysis.
 
-![]((https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag11.PNG)
+![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag11.PNG)
 
 ## Recommendations for future Analysis
 
