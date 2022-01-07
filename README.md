@@ -3,7 +3,7 @@ Using SQLite, SQAlchemy, Python in a Jupyter Notebook and Design a Flask applica
 
 ## Overview of Project
 
-Surf n' Shake shop is a business idea opened in Oahu, Hawaii, to sell surfboards and ice cream to locals and tourists alike. An investor will be supporting this business, but it will be necessary to develop some analysis on a weather database to present information to improve this investor's decision-making, aiming at the success of the business on this island. 
+Surf n' Shake shop is a business idea opened in Oahu, Hawaii, to sell surfboards and ice cream to locals and tourists alike. An investor will be supporting this business, but it will be necessary to develop some analysis on a weather database to present information to improve this investor's decision-making, aiming at the business's success on this island. 
 
 This assignment is related to the Bootcamp Data Analytics from the University of Toronto and comprises the goals below for this module: 
 
@@ -22,31 +22,31 @@ Follow below the goals for this module:
 
 ### Objective 1: Determine the Summary Statistics for June
 
-Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of June. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
+Using Python, Pandas functions and methods, and SQLAlchemy, we will filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for June. We will then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
 
-Import libraries (numpy, pandas, datetime, sqlalchemy) and A working query is written to retrieve the June temperatures from the date column of the Measurement table: 
+Import libraries (numpy, pandas, datetime, sqlalchemy) and an active query in writing to retrieve the June temperatures from the date column of the Measurement table: 
 
 ![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag1.PNG)
 ![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag2.PNG)
 
-The temperatures are added to a list:
+The temperatures are adding to a list:
 
 ![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag3.PNG)
 
-The list of temperatures is converted to a Pandas DataFrame and Summary statistics are generated for the DataFrame:
+The list of temperatures is converting to a Pandas DataFrame, and Summary statistics are generating for the DataFrame:
 
 ![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag4.PNG)
 
 
 ### Objective 2: Determine the Summary Statistics for December
 
-Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
+Using Python, Pandas functions and methods, and SQLAlchemy, we will filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for December. We will then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
 
-A working query is written to retrieve the December temperatures from the date column of the Measurement table and the temperatures are added to a list:
+An active query is writing to retrieve the December temperatures from the date column of the Measurement table, and the temperatures are added to a list::
 
 ![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag5.PNG)
 
-The list of temperatures is converted to a Pandas DataFrame and summary statistics are generated for the DataFrame:
+The list of temperatures is converting to a Pandas DataFrame and summary statistics are generating for the DataFrame:
 
 ![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag6.PNG)
 
@@ -74,7 +74,7 @@ In short, based on the results obtained and data analysis, Oahu in Hawaii presen
 ### Query developed to retrieve the precipitation between 2010 and 2016 of June month:
 
 According to ThoughtCo website: https://www.thoughtco.com/measuring-precipitation-1435346
-* As according to the ThoughtCo website, Hawaii is an island in the United States and all precipitation is generally estimated in inches thinking about a 24 hour time frame, hypothetically, it is estimated thinking about that after downpour, for every an inch of rain that fell in a 24 hour term, we would have an inch of downpour on the floor.
+* As according to the ThoughtCo website, Hawaii is an island in the United States and all precipitation is generally estimated in inches thinking about a 24-hour time frame, hypothetically, it is estimated thinking about that after downpour, for every an inch of rain that fell in a 24 hour term, we would have an inch of downpour on the floor.
 
 ![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag7.PNG)
 ![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag8.PNG)
@@ -87,20 +87,22 @@ The results show that the mean for the June month is around 0.158264 inches of r
 
 The results show that the mean for the June month is around 0.169073 inches of rainfall.
 
-### Query developed to retrieve the temperature frequency in June and December of 2016.
+### Query was developed to retrieve the temperature frequency in June and December 2016.
 
 #### June of 2016
 
-We considered the station USC00519281 with highest observation in Hawaii, also we considered the June month of 2016 year as a more recently data for this analysis.
+We considered the station USC00519281 with the highest observation in Hawaii; also, we considered the June month of 2016 as more recent data for this analysis.
 
 ![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag10.PNG)
 
 #### December of 2016
 
-We considered the station USC00519281 with highest observation in Hawaii, also we considered the December month of 2016 year as a more recently data for this analysis.
+We considered the station USC00519281 with the highest observation in Hawaii; also, we considered the December month of 2016 as more recent data for this analysis.
 
 ![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag11.PNG)
 
+For both months (June and December of 2016), the results are very similar, with high concentrations on temperatures between 70 and 75 Fahrenheit.
+
 ## Recommendations for future Analysis
 
-For future data analysis complementing this project, I suggest that other more recent databases search it. Other variables such as wind and temperature refer to the four seasons of the year that can influence the sales demand for ice cream or surfboards on the island.
+For future data analysis complementing this project, we suggest that other more recent databases search it. Other variables such as wind and temperature refer to the four seasons of the year that can influence the sales demand for ice cream or surfboards on the island.
