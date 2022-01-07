@@ -63,9 +63,11 @@ Based on the statistical results related to June and December, we have the resul
 * 75%: June, 77 and December 74 | difference; 3 
 * Max: June, 85 and December 83 | difference: 2 
 
-The most significant difference found was about the minimum temperature in June with 64 and December with 56, a difference of 8 degrees Fahrenheit. On the other hand, the minor difference is related to the Max, June with 85 and December with 83; we have only 2 degrees Fahrenheit. 
+### Follow below the three key differences in weather between June and December
 
-Furthermore, the Standard deviation result comparing June and December was just 0.4885. 
+First, the most significant difference found was about the minimum temperature in June with 64 and December with 56, a difference of 8 degrees Fahrenheit. Second, on the other hand, the minor difference is related to the Max, June with 85 and December with 83; we have only 2 degrees Fahrenheit. 
+
+Last, the Standard deviation result comparing June and December was just 0.4885.
 
 In short, based on the results obtained and data analysis, Oahu in Hawaii presents pleasant temperatures for surfing, considering with factor the very close results above, average temperature between 74.94 and 71.04 for June and December and the Max temperature extremely lovely on the island.
 
