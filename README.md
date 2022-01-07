@@ -69,4 +69,38 @@ Furthermore, the Standard deviation result comparing June and December was just 
 
 In short, based on the results obtained and data analysis, Oahu in Hawaii presents pleasant temperatures for surfing, considering with factor the very close results above, average temperature between 74.94 and 71.04 for June and December and the Max temperature extremely lovely on the island.
 
+## Provide a two additional queries that would perform gather more weather data for June and December
+
+### Query developed to retrieve the precipitation between 2010 and 2016 of June month:
+
+According to ThoughtCo website: https://www.thoughtco.com/measuring-precipitation-1435346
+* As according to the ThoughtCo website, Hawaii is an island in the United States and all precipitation is generally estimated in inches thinking about a 24 hour time frame, hypothetically, it is estimated thinking about that after downpour, for every an inch of rain that fell in a 24 hour term, we would have an inch of downpour on the floor.
+
+![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag7.PNG)
+![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag8.PNG)
+
+The results show that the mean for the June month is around 0.158264 inches of rainfall.
+
+### Query developed to retrieve the precipitation between 2010 and 2016 of December month
+
+![](https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag9.PNG)
+
+The results show that the mean for the June month is around 0.169073 inches of rainfall.
+
+### Query developed to retrieve the temperature frequency in June and December of 2016.
+
+#### June of 2016
+
+We considered the station USC00519281 with highest observation in Hawaii, also we considered the June month of 2016 year as a more recently data for this analysis.
+
+![]((https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag10.PNG)
+
+#### December of 2016
+
+We considered the station USC00519281 with highest observation in Hawaii, also we considered the December month of 2016 year as a more recently data for this analysis.
+
+![]((https://github.com/DougUOT/surfs_up/blob/main/Resouces/Surfsup_imag11.PNG)
+
 ## Recommendations for future Analysis
+
+For future data analysis complementing this project, I suggest that other more recent databases search it. Other variables such as wind and temperature refer to the four seasons of the year that can influence the sales demand for ice cream or surfboards on the island.
