@@ -5,9 +5,8 @@ Using SQLite, SQAlchemy, Python in a Jupyter Notebook and Design a Flask applica
 
 Surf n' Shake shop is a business idea opened in Oahu, Hawaii, to sell surfboards and ice cream to locals and tourists alike. An investor will be supporting this business, but it will be necessary to develop some analysis on a weather database to present information to improve this investor's decision-making, aiming at the business's success on this island. 
 
-This assignment is related to the Bootcamp Data Analytics from the University of Toronto and comprises the goals below for this module: 
 
-Follow below the goals for this module:
+Follow below the goals for this project:
 
 1) Objective 1: Determine the Summary Statistics for June
 2) Objective 2: Determine the Summary Statistics for December
